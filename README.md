@@ -18,22 +18,11 @@ A brief one-liner about what you do and what drives you.
 
 ---
 
-### Featured Projects
+### Cool stuff I'm working on
 
 | Project | Description |
 |---------|-------------|
 | [**project-name**](https://github.com/UrAverageDavid/project-name) | A short, punchy description of what it does. |
-| [**another-project**](https://github.com/UrAverageDavid/another-project) | What problem does it solve? Keep it to one line. |
-| [**cool-tool**](https://github.com/UrAverageDavid/cool-tool) | Why would someone care about this? |
-
----
-
-### GitHub Activity
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UrAverageDavid&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrAverageDavid&layout=compact&theme=dark&hide_border=true&count_private=true" />
-</p>
 
 ---
 
