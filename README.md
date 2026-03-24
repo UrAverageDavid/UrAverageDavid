@@ -31,11 +31,9 @@ A brief one-liner about what you do and what drives you.
 ### GitHub Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UrAverageDavid&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrAverageDavid&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UrAverageDavid&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrAverageDavid&layout=compact&theme=dark&hide_border=true&count_private=true" />
 </p>
-
-<!-- Swap "theme=default" to "theme=dark" if you prefer dark mode stats -->
 
 ---
 
